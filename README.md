@@ -1,6 +1,7 @@
 # SW-CPU-Rockchip-ADC-32
 
 Here is adc test with Radxa CM5. There 2 ways to use ADC in CM5.
+
 1.) Use ADC Pin (PIN37)
 
 Note: This pin only support up to 1.98V! I used MP1584.
