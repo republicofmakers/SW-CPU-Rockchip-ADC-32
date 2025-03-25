@@ -18,6 +18,11 @@ CM5 ADC Setup
 
 ADC Pin
 
+<img width="781" alt="ADC Module Demo" src="https://github.com/user-attachments/assets/e2518b31-7223-4013-bef3-34cf42729dc4" />
+
+ADC Module
+
+<img width="786" alt="button" src="https://github.com/user-attachments/assets/222289c6-4d89-4c72-b715-17dbb8aa430b" />
 
 ADC Module
 
@@ -27,6 +32,7 @@ ADC Module
 
 (ADC Reading ADC Pin)
 
+<img width="901" alt="ADC Module Results" src="https://github.com/user-attachments/assets/5f8c5886-47c6-4a58-939d-3827b29d213b" />
 
 (ADC Reading ADC Module)
 
