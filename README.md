@@ -4,7 +4,7 @@ Here is adc test with Radxa CM5. There 2 ways to use ADC in CM5.
 
 1.) Use ADC Pin (PIN37)
 
-Note: This pin only support up to 1.98V! I used MP1584 and set 1.8V to the potentiometer possitive pin.
+Note: This pin only support up to 1.98V! I used MP1584 and set 1.8V to the potentiometer positive pin.
 
 2.) Use an ADC Module with I2C (ADS1115)
 
